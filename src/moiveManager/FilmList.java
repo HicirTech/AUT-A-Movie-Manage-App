@@ -3,6 +3,7 @@ package moiveManager;
 import java.util.*;
 import java.io.*;
 
+import java.awt.*;
 /**
  * FilmList class is the model of MVC, it has all the method used for the databased 
  * application, also have the two arrayList and a searhEngine
